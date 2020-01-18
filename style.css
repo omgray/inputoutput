@@ -1,0 +1,26 @@
+* {
+    clear: both;
+}
+body {
+    background-color: brown;
+    color: white;
+    margin: auto;
+    display: flex;
+    min-height: 100vh;
+}
+#container {
+    background-color: white;
+    color: brown;
+    width: 40%;
+    height: 20rem;
+    margin: auto;
+    padding: 3rem;
+    text-align: center;
+}
+#messageout {
+    font-size: x-large;
+}
+#quotes {
+    font-size: 36px;
+    font-weight: 400;
+}
